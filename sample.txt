@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 hi charan shetty
-=======
-hello hi charan
->>>>>>> 7146a68567747d4286940ce3918c5f0b1a300c00
